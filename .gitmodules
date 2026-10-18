@@ -1,0 +1,3 @@
+[submodule "themes/aphidian"]
+	path = themes/aphidian
+	url = git@github.com:aphidianxyz/aphidianxyz-hugo-theme.git
