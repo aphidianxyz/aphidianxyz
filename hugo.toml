@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://aphidian.xyz/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'aphidian.xyz'
 theme = 'aphidian'
